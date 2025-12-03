@@ -1,5 +1,10 @@
 <h3> Em 2025-1 </h3>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/755afbc9-cd9e-4619-a650-6d399c785e3a" width="600">
+</p>
+
+
 <h3> Desafio Proposto pelo Cliente </h3>
 Neste projeto, o cliente foi a empresa Youtan, especializada no desenvolvimento de softwares e aplicativos sob demanda desde 2002. Localizada no Parque Tecnológico de São José dos Campos e integrante do TIC Vale, a Youtan atua com metodologias ágeis e tecnologias modernas para entregar soluções digitais em Web, Desktop e Mobile. Além disso, oferece o SIGI, seu ERP em modelo SaaS voltado para empresas B2B de pequeno e médio porte. O desafio apresentado envolvia aprimorar a gestão de projetos, tornando-a mais eficiente, visual e transparente, com indicadores que permitissem acompanhar o andamento das tarefas em tempo real.
 
