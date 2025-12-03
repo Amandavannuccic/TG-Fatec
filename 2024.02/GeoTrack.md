@@ -1,5 +1,10 @@
 <h3> Em 2024-2 </h3>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8242e90e-47f8-4009-bbf5-aa4a7ff4c403" width="600" height="auto">
+</p>
+
+
 <h3> Desafio Proposto pelo Cliente </h3> 
 
 Neste projeto, o cliente foi a empresa ITO1, especializada em soluções de dados e Internet das Coisas (IoT). A ITO1 nos apresentou a necessidade de gerenciar de forma eficiente e escalável os grandes volumes de dados gerados por seus dispositivos IoT, especialmente voltados para a geolocalização de pessoas, dispositivos e objetos. O desafio envolvia garantir alta disponibilidade, integridade e rastreabilidade dessas informações armazenadas em banco de dados relacional, facilitando o registro e a consulta de dados em tempo real.
