@@ -13,13 +13,11 @@
 
 <h3> Introdução </h3>
 
-Graduada em Gestão Financeira, Biomedicina e atualmente cursando o quinto semestre de Banco de Dados na Fatec de São José dos Campos. Desde fevereiro de 2024, atuo como estagiária na Johnson & Johnson, no setor de End-User.
+Graduada em Gestão Financeira e Biomedicina, atualmente cursando o sexto semestre de Banco de Dados na FATEC de São José dos Campos. Desde [mês/ano de início], atuo na área de tecnologia como Tester de sistemas computacionais, desenvolvendo habilidades em análise, execução de testes e garantia de qualidade de sistemas.
 
-Na J&J, minhas principais responsabilidades incluem a participação ativa nas atividades relacionadas às compras do setor End-User, a criação e gestão de relatórios detalhados utilizando a ferramenta Power BI, automatização de processos do setor e descrição dos processos, também atuamos em instruir e ensisra o usuário final em como usar ferramentas da Microsoft. Minha contribuição é essencial para otimizar processos e fornecer informações precisas para a tomada de decisões.
+Minhas principais responsabilidades incluem a criação, execução e documentação de testes de software, identificação e reporte de inconsistências, participação na melhoria de processos de desenvolvimento e colaboração direta com equipes para assegurar a entrega de sistemas confiáveis e funcionais. Minha atuação contribui diretamente para a qualidade final dos produtos e para a eficiência do time de desenvolvimento.
 
-Além disso, sou voluntária no projeto "Programadoras da Vida" e mentora no "Projeto Despertar", ambos tem como objetivo em comum capacitar pessoas com conhecimentos sobre as ferramentas tecnológicas mais utilizadas no mercado de trabalho.
-
-Também sou mentorada por dois especialistas, um em Power Apps e outro em Gestão de Tempo, ambas as mentorias estão muito recentes mas ja senti diferênça e um grande impacto em meu desenvolvimento.
+Ao longo da graduação, pude adquirir experiências valiosas que complementaram minha formação acadêmica: estagiei por mais de um ano na Johnson & Johnson, participei como monitora na FATEC, atuei como voluntária no projeto "Programadoras da Vida", mentorei participantes pelo "Projeto Despertar" e fui mentorada por profissionais da área em especializações como Power Apps e Gestão de Tempo. Todas essas vivências contribuíram significativamente para o meu desenvolvimento técnico, profissional e pessoal, fortalecendo habilidades de liderança, comunicação e aprendizagem contínua.
 
 <h3> Contatos </h3>
 
