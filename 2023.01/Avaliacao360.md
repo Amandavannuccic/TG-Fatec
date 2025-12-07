@@ -39,7 +39,7 @@ Para resolver as limitações do processo manual de avaliação, o grupo [Tech H
 | Programa de Planilhas               | Excel                         | Usado para análise e organização de dados em formato tabular.               |
 | Método de Gerenciamento de Projetos | Kanban                        | Metodologia ágil usada para acompanhar o progresso e distribuição das tarefas. |
 
-# Contribuições Pessoais – Projeto Insight360º
+# Contribuições Pessoais
 
 No projeto Insight360º, atuei simultaneamente como Product Owner (PO) e Desenvolvedora, conciliando a mediação entre o cliente (Professor Lucas Nadalete) e a equipe técnica com a implementação direta de funcionalidades essenciais do sistema.
 
