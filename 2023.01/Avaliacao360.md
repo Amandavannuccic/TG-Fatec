@@ -21,7 +21,7 @@ Para resolver as limitações do processo manual de avaliação, o grupo [Tech H
 </details>
 
 
-<h3>Tecnologias Utilizadas</h3>
+# Tecnologias Utilizadas
 
 | **Categoria**                       | **Ferramenta/Plataforma**     | **Descrição**                                                                 |
 |-------------------------------------|-------------------------------|------------------------------------------------------------------------------|
