@@ -788,7 +788,3 @@ public class TelaPendenciasController {
 - Motivo do nível: mantive alta qualidade através de validações e testes frequentes.  
 
 </details>
-
----
-
-
