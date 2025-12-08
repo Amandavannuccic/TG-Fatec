@@ -1,46 +1,40 @@
-<h3> Em 2024-1</h3>
+<h3> 2024-01 </h3> <h3> NextSchema</h3>
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1089174c-cb91-498e-9531-6a6f19638958" />
 
+# Desafio Proposto pelo Cliente
+O desafio apresentado envolvia a necessidade de automatizar a configuração das fontes de dados utilizadas no pipeline da empresa Dom Rock. O processo atual exigia intervenções manuais, dificultando o acesso organizado aos dados, aumentando a dependência de especialistas técnicos e tornando as implantações mais lentas e suscetíveis a erros. Além disso, faltavam mecanismos padronizados para estruturar informações recebidas por meio de arquivos CSV e garantir rastreabilidade nas ações realizadas durante a configuração.
 
-<h3> NextSchema</h3>
-  
-O NextSchema foi desenvolvido com o objetivo de automatizar o acesso ao pipeline da empresa Dom Rock. Este sistema facilita a configuração das fontes de dados do pipeline, tornando o processo mais eficiente.
+# Ferramenta Desenvolvida
+Para atender a essa demanda, a equipe desenvolveu o NextSchema, uma aplicação web projetada com uma interface simples e intuitiva voltada para facilitar o processo de integração de dados. O sistema oferece telas específicas para cadastro de clientes, soluções e usuários, além de uma interface dedicada ao upload de arquivos CSV com visualização da estrutura dos dados. Também foi implementado um dashboard administrativo que apresenta métricas e informações quantitativas sobre os dados configurados.
 
-Com o NextSchema, os usuários podem fazer o upload de arquivos CSV contendo dados de negócios. O sistema então orienta o cliente durante as diversas etapas, ajudando a definir quais itens devem ser processados para análise, conforme o progresso do processo.
-
+A ferramenta inclui funcionalidades como mapeamento de campos-chave, aplicação de regras de negócio e recursos de autenticação e auditoria, permitindo total rastreabilidade do processo. Com essas capacidades, o NextSchema torna a configuração das fontes de dados mais ágil, padronizada e menos dependente de técnicos especialistas, otimizando significativamente o fluxo de trabalho.
 <h3> Tecnologias Utilizadas </h3>
-  
-<h3> Banco de Dados: </h3>
 
-Linguagem de Consulta Estruturada (SQL); Ferramenta de consulta: MySQL.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2db64f5d-1fce-4ba9-a642-e415530b1190" />
 
-<h3> Back-end:</h3>
 
-Linguagem de programação: Java;
-Framework: Spring;
-IDE: InteliJ;
-Requisições: Postman;
-Segurança: Java Security Mananger;
-Testes Unitários.
+| **Categoria**                       | **Ferramenta/Plataforma**     | **Descrição**                                                                 |
+|-------------------------------------|-------------------------------|------------------------------------------------------------------------------|
+| Linguagem de Programação    | Java                             | Utilizada como linguagem principal de programação. |
+| Framework Backend           | Spring Boot / Spring             | Framework para desenvolvimento do Backend Web Server. |
+| IDE Backend                 | IntelliJ IDEA                    | Ambiente de desenvolvimento utilizado para o back-end. |
+| Requisições HTTP           | Postman                          | Utilizado para testar e validar requisições da API. |
+| Segurança                  | Java Security Manager            | Ferramenta de gerenciamento de segurança da aplicação. |
+| Testes                     | Testes Unitários                 | Utilizados para garantir a qualidade e funcionamento do código. |
+| Banco de Dados              | MySQL                            | Banco de dados relacional utilizado no projeto. |
+| Linguagem de BD             | SQL                              | Linguagem de consulta estruturada usada no banco de dados. |
+| Ferramenta de Modelagem     | BR-Modelos                       | Utilizada para criação e modelagem de dados. |
+| Prototipação                | Figma                            | Usado para criação de wireframes e protótipos de interface. |
+| Frontend                    | HTML, CSS, JavaScript, C#        | Tecnologias para desenvolvimento da interface do usuário. |
+| IDE Frontend                | VS Code                          | Ambiente de desenvolvimento utilizado para o front-end. |
+| Gerenciamento de Projetos   | Jira                             | Plataforma usada para organização da equipe e gestão do projeto. |
+| Comunicação                 | WhatsApp, Discord, E-mail (Hotmail) | Canais utilizados para comunicação entre os membros da equipe. |
+| Versionamento               | Git                              | Sistema de controle de versão dos projetos. |
+| Repositório de Código       | GitHub                           | Utilizado para armazenamento e publicação dos arquivos do projeto. |
+| Gestão de Equipe            | Jira                             | Ferramenta usada para coordenação de tarefas e acompanhamento do time. |
 
-<h3> Front-End:</h3>
-
-Linguagem: HTLM, C# e Java Script.
-IDE: VS Code.
-Modelo de interface: Figma.
-
-<h3> Gestão de equipe: </h3>
-
-Jira.
-
-<h3> Comunicação: </h3>
-
-WhatsApp;
-Discord;
-E-mail Hotmail.
-
-<h3> Contribuições Pessoais </h3>
+# Contribuições Pessoais
 
 Durante o desenvolvimento do projeto Spring, contribuí para a implementação e execução de testes de integração e documentação dos endpoints. Meu trabalho envolveu as seguintes etapas principais:
 
