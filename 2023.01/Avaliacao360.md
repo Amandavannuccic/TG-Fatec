@@ -14,10 +14,9 @@ Para resolver as limitações do processo manual de avaliação, o grupo [Tech H
 
 <details>
 <summary>Visual</summary>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f6071e8f-8c01-4ef6-8fa3-b8bb9852b76a" width="500">
-  <img src="https://github.com/user-attachments/assets/f25f871d-b9b5-45fc-af7c-c38b58b3a621" width="500">
-</p>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f6071e8f-8c01-4ef6-8fa3-b8bb9852b76a" width="500">
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f25f871d-b9b5-45fc-af7c-c38b58b3a621" width="500">
+
 </details>
 
 
