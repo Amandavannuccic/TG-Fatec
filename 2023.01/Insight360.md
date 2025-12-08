@@ -1,5 +1,5 @@
 <h3>2023.01</h3> 
-<h3>Insigth 360</h3>
+<h3>Insight 360</h3>
 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a26af9a3-6150-462b-83d8-e30eff33e168" />
@@ -11,7 +11,7 @@ Neste desafio, o cliente foi o [Professor Lucas Nadalete](https://fatecsjc-prd.a
 
 # Ferramenta Desenvolvida
 
-Para resolver as limitações do processo manual de avaliação, o grupo [Tech Horizon](https://github.com/TechHorizonBR) desenvolveu o [Insigth 360º](https://github.com/Amandavannuccic/API_1_SEMESTRE), um sistema desktop em Python com uma interface amigável e intuitiva construída com Tkinter. A ferramenta permite a visualização gráfica dos resultados por meio do Matplotlib e realiza o armazenamento local dos dados no formato JSON. Além disso, oferece suporte a múltiplos perfis de usuário, distinguindo avaliadores e avaliados, gera relatórios automáticos de desempenho e conta com um sistema básico de autenticação para controle de acesso.
+Para resolver as limitações do processo manual de avaliação, o grupo [Tech Horizon](https://github.com/TechHorizonBR) desenvolveu o [Insight 360º](https://github.com/Amandavannuccic/API_1_SEMESTRE), um sistema desktop em Python com uma interface amigável e intuitiva construída com Tkinter. A ferramenta permite a visualização gráfica dos resultados por meio do Matplotlib e realiza o armazenamento local dos dados no formato JSON. Além disso, oferece suporte a múltiplos perfis de usuário, distinguindo avaliadores e avaliados, gera relatórios automáticos de desempenho e conta com um sistema básico de autenticação para controle de acesso.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f25f871d-b9b5-45fc-af7c-c38b58b3a621" width="500">
 
