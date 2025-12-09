@@ -5,18 +5,14 @@
 
 # Desafio Proposto pelo Cliente
 
-Desenvolver um backend robusto para gerenciar tickets, usuários e fornecer análises automáticas (FAQ/embeddings, sentimentos e predições por período) para apoiar o processo de tomada de decisão. O objetivo incluiu a criação de rotas de API, persistência em banco de dados, integração com componentes de Machine Learning para inferência de FAQ e geração de métricas/relatórios.
+Neste projeto o cliente foi a [Pro4Tech](https://www.pro4tech.com.br/#como-fazemos), uma empresa especializada em transformação digital, que nos desafiou a desenvolver um backend robusto para gerenciar tickets, usuários e fornecer análises automáticas (FAQ/embeddings, sentimentos e predições por período) para apoiar o processo de tomada de decisão. O objetivo incluiu a criação de rotas de API, persistência em banco de dados, integração com componentes de Machine Learning para inferência de FAQ e geração de métricas/relatórios.
 
 # Ferramenta Desenvolvida
 
-O repositório contém a implementação de uma API (módulos em `api_6sem_back_end/`) responsável por:
+Para atender a essa demanda, o [grupo New Generation](https://github.com/new-ge) desenvolveu a ferramenta [LuminIA](https://github.com/new-ge/LuminIA) uma API backend robusta, responsável por gerenciar usuários e tickets, além de consolidar métricas essenciais para análise. A solução oferece endpoints completos de criação, consulta, atualização e exclusão, processamento de métricas por períodos customizados e integração com modelos de Machine Learning para inferência de FAQ e análise de tendências.
 
-- Autenticação e gerenciamento de usuários
-- Endpoints para criação, consulta, atualização e exclusão de tickets
-- Processamento e agregação de métricas por período (mês, período customizado)
-- Integração com componentes de ML para: inferência de FAQ via embeddings, treinamento de modelos e análise de tendência
-- Persistência e manipulação de dados no banco (camada em `db/`)
-- Estrutura em camadas: `routers/`, `services/`, `repositories/`, `models/`, `ml/`, `utils/` para facilitar manutenção e testes
+Com arquitetura em camadas incluindo routers, services, repositories, models, ml e utils e persistência estruturada na camada de banco de dados, a API garante organização, escalabilidade e facilidade de manutenção, apoiando tomadas de decisão de forma mais eficiente e inteligente.
+
 
  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/218dbbd0-f196-4568-8016-a094545e1f14" />
 
@@ -966,22 +962,114 @@ def build_query_filter(filtro: Filtro, base_filter: Optional[Dict] = None) -> Di
 </details>
 </details>
 
-# Hard Skills Desenvolvidas
+# Hard Skills Desenvolvidas - [Tabela de Níveis](https://github.com/Amandavannuccic/TG-Fatec/blob/main/TabelaDeN%C3%ADveis/TabelaNiveis.md)
 
-- **Programação em Python** — Desenvolvimento e organização de um backend modular, manipulação de pacotes e scripts de ML.
-- **APIs REST** — Projeto e implementação de endpoints, autenticação e versionamento de rotas.
-- **Banco de Dados NoSQL (MongoDB)** — Modelagem de collections, queries e otimizações para relatórios.
-- **Machine Learning Aplicado** — Uso de embeddings (SentenceTransformers) para inferência de FAQ, processamento de vetores e pipelines de inferência.
-- **Estrutura em Camadas** — Separação clara entre `routers`, `services`, `repositories`, `models` e `utils` para melhor manutenção.
-- **Controle de Versão (Git)** — Branching, commits e colaboração em equipe.
+### Desenvolvimento Backend — Intermediário
+<details><summary>Detalhes</summary>
 
-Soft Skills Desenvolvidas
+- Estruturei uma API completa utilizando FastAPI, arquitetura em camadas e boas práticas de organização;
+- Implementei autenticação JWT, controle de acesso, validações e logs estruturados;
+- Organizei rotas, serviços e repositórios garantindo manutenibilidade e escalabilidade.
 
-- **Comunicação Técnica** — Documentação e definição de contratos entre camadas (ex.: payloads JSON, respostas de endpoints).
-- **Trabalho Colaborativo** — Coordenação com colegas na divisão de responsabilidades e integração das peças do sistema.
-- **Organização e Planejamento** — Priorização de entregas, definição de responsabilidades por módulo e manutenção do repositório.
-- **Resolução de Problemas** — Depuração de integrações entre banco, API e módulos de ML.
+#### **Motivo do nível:**  
+Atuei com autonomia e domínio técnico nas principais partes do backend, entregando funcionalidades críticas com qualidade e consistência.
 
+</details>
 
+### Banco de Dados NoSQL (MongoDB) — Intermediário
+<details><summary>Detalhes</summary>
 
+- Modelei collections, queries e pipelines de agregação avançados;
+- Realizei persistência, atualização e consultas otimizadas para relatórios;
+- Trabalhei com filtros dinâmicos, manipulação de datas e projeções.
 
+#### **Motivo do nível:**  
+Dominei o uso de agregações e CRUDs completos, mas ainda não explorei temas avançados como indexação e tunning de performance profunda.
+
+</details>
+
+### APIs REST & Arquitetura em Camadas — Intermediário
+<details><summary>Detalhes</summary>
+
+- Construí múltiplos endpoints robustos com validação, responses padronizadas e segurança;
+- Segui boas práticas de separação de responsabilidades: routers, services, repositories, models e utils;
+- Documentei e organizei a API favorecendo entendimento e manutenção.
+
+#### **Motivo do nível:**  
+Fui responsável pela criação e organização de toda a estrutura da API, demonstrando domínio do padrão.
+
+</details>
+
+### Machine Learning Aplicado — Intermediário
+<details><summary>Detalhes</summary>
+
+- Integrei embeddings semânticos (SentenceTransformers) para inferência de FAQ;
+- Implementei Similaridade de Cosseno, pré-processamento de texto e caching de embeddings;
+- Realizei treinamento com modelos base e pipelines de inferência.
+
+#### **Motivo do nível:**  
+Apliquei técnicas relevantes de ML com sucesso, mas sem avançar para tópicos mais profundos como fine-tuning avançado, avaliação estatística ou deploy de modelos.
+
+</details>
+
+# Soft Skills Desenvolvidas - [Tabela de Níveis](https://github.com/Amandavannuccic/TG-Fatec/blob/main/TabelaDeN%C3%ADveis/TabelaNiveis.md)
+
+### Comunicação Técnica — Avançado
+<details> <summary>Detalhes</summary>
+
+- Documentei rotas, modelos e camadas da API;
+- Facilitei alinhamentos técnicos sobre arquitetura, requisitos e integrações;
+- Expliquei decisões e fluxos complexos de forma clara para a equipe.
+
+#### Motivo do nível:
+Comuniquei conceitos técnicos complexos com clareza e segurança, sendo referência na troca de informações.
+
+</details>
+
+### Resolução de Problemas — Intermediário
+<details> <summary>Detalhes</summary>
+
+- Corrigi inconsistências entre as camadas (banco, API e ML);
+- Depurei erros em pipelines, filtros e validações;
+- Ajustei soluções rapidamente quando surgiam desafios durante o desenvolvimento.
+
+#### Motivo do nível: 
+Resolvi problemas relevantes com boa autonomia, ainda dependendo de apoio em casos muito avançados de arquitetura ou ML.
+
+</details>
+
+### Organização e Planejamento — Avançado
+<details> <summary>Detalhes</summary>
+
+- Estruturei tarefas e prioridades do backend;
+- Mantive organização dos módulos, garantindo clareza para contribuições futuras;
+- Planejei processos de integração, testes e entrega.
+
+#### Motivo do nível:
+Atuei de forma antecipada, organizada e consistente, garantindo fluidez no desenvolvimento do backend.
+
+</details>
+
+### Pensamento Analítico — Intermediário
+<details> <summary>Detalhes</summary>
+
+- Analisei cenários para definir a melhor abordagem técnica;
+- Conectei dados, lógica e fluxo de operações para gerar relatórios e análises confiáveis;
+- Avaliei impactos de decisões na arquitetura.
+
+#### Motivo do nível:
+Apresentei boa capacidade de análise, ainda evoluindo para níveis de antecipação estratégica mais profundos.
+
+</details>
+
+### Autonomia e Responsabilidade — Avançado
+<details> <summary>Detalhes</summary>
+
+- Fui responsável por uma parte crítica do sistema: autenticação, segurança, análises e ML;
+- Trabalhei de forma independente, organizando e entregando módulos completos;
+- Mantive consistência e confiabilidade nos commits e entregas.
+
+#### Motivo do nível:
+Exerci autonomia com segurança, lidando com funcionalidades essenciais do projeto de forma responsável.
+
+</details>

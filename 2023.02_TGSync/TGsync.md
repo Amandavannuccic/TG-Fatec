@@ -5,7 +5,7 @@
 
 # Desafio Proposto pelo Cliente
 
-Neste desafio, o cliente foi o [Professor Mineda](https://fatecsjc-prd.azurewebsites.net/docentes-bd), que nos apresentou a necessidade de modernizar o processo de avaliação dos Trabalhos de Conclusão de Curso (TCC) dos alunos do 5º e 6º período do curso de Análise e Desenvolvimento de Sistemas da Fatec. O método utilizado até então era manual, o que gerava diversas limitações, como a suscetibilidade a erros, a dificuldade na consolidação dos dados de avaliação, a ausência de relatórios padronizados, o tempo elevado para análise das informações e a falta de integração entre etapas, notas e feedbacks.
+Neste desafio, o cliente foi o [Professor Emanuel Mineda Carneiro](https://fatecsjc-prd.azurewebsites.net/docentes-bd), que nos apresentou a necessidade de modernizar o processo de avaliação dos Trabalhos de Conclusão de Curso (TCC) dos alunos do 5º e 6º período do curso de Análise e Desenvolvimento de Sistemas da Fatec. O método utilizado até então era manual, o que gerava diversas limitações, como a suscetibilidade a erros, a dificuldade na consolidação dos dados de avaliação, a ausência de relatórios padronizados, o tempo elevado para análise das informações e a falta de integração entre etapas, notas e feedbacks.
 
 # Ferramenta Desenvolvida
 
@@ -625,7 +625,7 @@ public class TelaPendenciasController {
 </details>
 
 
-# Hard Skills Desenvolvidas
+# Hard Skills Desenvolvidas - [Tabela de Níveis](https://github.com/Amandavannuccic/TG-Fatec/blob/main/TabelaDeN%C3%ADveis/TabelaNiveis.md)
 
 ### Desenvolvimento Java — Intermediário
 <details> <summary>Detalhes</summary>
@@ -697,7 +697,7 @@ public class TelaPendenciasController {
 
 </details>
 
-# Soft Skills Desenvolvidas
+# Soft Skills Desenvolvidas - [Tabela de Níveis](https://github.com/Amandavannuccic/TG-Fatec/blob/main/TabelaDeN%C3%ADveis/TabelaNiveis.md)
 
 ### Trabalho em Equipe — Intermediário
 <details> <summary>Detalhes</summary>

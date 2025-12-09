@@ -7,10 +7,10 @@
 
 
 # Desafio Proposto pelo Cliente
-Neste projeto, o cliente foi a empresa Youtan, especializada no desenvolvimento de softwares e aplicativos sob demanda desde 2002. Localizada no Parque Tecnológico de São José dos Campos e integrante do TIC Vale, a Youtan atua com metodologias ágeis e tecnologias modernas para entregar soluções digitais em Web, Desktop e Mobile. Além disso, oferece o SIGI, seu ERP em modelo SaaS voltado para empresas B2B de pequeno e médio porte. O desafio apresentado envolvia aprimorar a gestão de projetos, tornando-a mais eficiente, visual e transparente, com indicadores que permitissem acompanhar o andamento das tarefas em tempo real.
+Neste projeto, o cliente foi a empresa [Youtan](https://youtan.com.br/), especializada no desenvolvimento de softwares e aplicativos sob demanda desde 2002. Localizada no Parque Tecnológico de São José dos Campos e integrante do TIC Vale, a Youtan atua com metodologias ágeis e tecnologias modernas para entregar soluções digitais em Web, Desktop e Mobile. Além disso, oferece o SIGI, seu ERP em modelo SaaS voltado para empresas B2B de pequeno e médio porte. O desafio apresentado envolvia aprimorar a gestão de projetos, tornando-a mais eficiente, visual e transparente, com indicadores que permitissem acompanhar o andamento das tarefas em tempo real.
 
 # Ferramenta Desenvolvida
-Para atender a essa necessidade, o grupo New Generation desenvolveu a VISION, uma aplicação integrada à plataforma Taiga para visualização de indicadores de projetos. A ferramenta possibilita o acompanhamento de métricas como tempo médio de finalização, distribuição de responsabilidades, uso de etiquetas e outros dados relevantes. Com isso, a VISION oferece maior clareza, transparência e suporte à tomada de decisão no gerenciamento ágil de projetos.
+Para atender a essa necessidade, o [grupo New Generation](https://github.com/new-ge) desenvolveu a [VISION](https://github.com/new-ge/VISION), uma aplicação integrada à plataforma Taiga para visualização de indicadores de projetos. A ferramenta possibilita o acompanhamento de métricas como tempo médio de finalização, distribuição de responsabilidades, uso de etiquetas e outros dados relevantes. Com isso, a VISION oferece maior clareza, transparência e suporte à tomada de decisão no gerenciamento ágil de projetos.
 
 <img width="1290" height="634" alt="image" src="https://github.com/user-attachments/assets/d117cf5d-07c5-46da-bd1f-d1a618f65c19" />
 
@@ -85,7 +85,7 @@ Liderei a transição da documentação do projeto do Teams para o Jira, organiz
 </details>
 
 
-# Hard Skills Desenvolvidas
+# Hard Skills Desenvolvidas - [Tabela de Níveis](https://github.com/Amandavannuccic/TG-Fatec/blob/main/TabelaDeN%C3%ADveis/TabelaNiveis.md)
 
 ### Gestão Ágil (Scrum/Kanban) — Intermediário
 
@@ -145,7 +145,7 @@ Participei das decisões, mas não atuei diretamente na parte técnica, mantendo
 
 </details>
 
-# Soft Skills Desenvolvidas
+# Soft Skills Desenvolvidas - [Tabela de Níveis](https://github.com/Amandavannuccic/TG-Fatec/blob/main/TabelaDeN%C3%ADveis/TabelaNiveis.md)
 
 ### Trabalho em Equipe — Avançado
 

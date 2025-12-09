@@ -6,7 +6,7 @@
 
 # Desafio Proposto pelo Cliente 
   
-Neste desafio, o cliente foi o [Professor Lucas Nadalete](https://fatecsjc-prd.azurewebsites.net/docentes-bd), que nos apresentou a necessidade de substituir o processo manual de avaliação de desempenho. Esse processo enfrentava diversas limitações, como a dificuldade na consolidação dos dados em planilhas desconectadas, a ausência de padronização nos critérios de avaliação, a lentidão decorrente da burocracia envolvida e a pouca clareza na visualização dos resultados.
+Neste desafio, o cliente foi o [Professor Lucas Gonçalves Nadalete](https://fatecsjc-prd.azurewebsites.net/docentes-bd), que nos apresentou a necessidade de substituir o processo manual de avaliação de desempenho. Esse processo enfrentava diversas limitações, como a dificuldade na consolidação dos dados em planilhas desconectadas, a ausência de padronização nos critérios de avaliação, a lentidão decorrente da burocracia envolvida e a pouca clareza na visualização dos resultados.
 
 
 # Ferramenta Desenvolvida
@@ -235,7 +235,8 @@ Como PO, fui responsável por compreender as necessidades do cliente, transforma
 
 </details>
 
-# Hard Skills Desenvolvidas
+
+# Hard Skills Desenvolvidas - [Tabela de Níveis](https://github.com/Amandavannuccic/TG-Fatec/blob/main/TabelaDeN%C3%ADveis/TabelaNiveis.md)
 
 ### Manipulação de Dados (JSON) — Intermediário
 <details> <summary>Detalhes</summary>
@@ -322,7 +323,7 @@ Como PO, fui responsável por compreender as necessidades do cliente, transforma
 
 </details>
 
-# Soft Skills Desenvolvidas
+# Soft Skills Desenvolvidas - [Tabela de Níveis](https://github.com/Amandavannuccic/TG-Fatec/blob/main/TabelaDeN%C3%ADveis/TabelaNiveis.md)
 
 ### Trabalho em Equipe — Intermediário
 <details> <summary>Detalhes</summary>

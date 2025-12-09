@@ -3,10 +3,10 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1089174c-cb91-498e-9531-6a6f19638958" />
 
 # Desafio Proposto pelo Cliente
-O desafio apresentado envolvia a necessidade de automatizar a configuração das fontes de dados utilizadas no pipeline da empresa Dom Rock. O processo atual exigia intervenções manuais, dificultando o acesso organizado aos dados, aumentando a dependência de especialistas técnicos e tornando as implantações mais lentas e suscetíveis a erros. Além disso, faltavam mecanismos padronizados para estruturar informações recebidas por meio de arquivos CSV e garantir rastreabilidade nas ações realizadas durante a configuração.
+O desafio foi apresentado pela empresa [Dom Rock](https://www.linkedin.com/company/dom-rock/?originalSubdomain=br) e envolvia a necessidade de automatizar a configuração das fontes de dados utilizadas no pipeline da empresa Dom Rock. O processo atual exigia intervenções manuais, dificultando o acesso organizado aos dados, aumentando a dependência de especialistas técnicos e tornando as implantações mais lentas e suscetíveis a erros. Além disso, faltavam mecanismos padronizados para estruturar informações recebidas por meio de arquivos CSV e garantir rastreabilidade nas ações realizadas durante a configuração.
 
 # Ferramenta Desenvolvida
-Para atender a essa demanda, a equipe desenvolveu o NextSchema, uma aplicação web projetada com uma interface simples e intuitiva voltada para facilitar o processo de integração de dados. O sistema oferece telas específicas para cadastro de clientes, soluções e usuários, além de uma interface dedicada ao upload de arquivos CSV com visualização da estrutura dos dados. Também foi implementado um dashboard administrativo que apresenta métricas e informações quantitativas sobre os dados configurados.
+Para atender a essa demanda, a equipe [Tech Horizon](https://github.com/TechHorizonBR) desenvolveu o [NextSchema](https://github.com/TechHorizonBR/API_3SEM), uma aplicação web projetada com uma interface simples e intuitiva voltada para facilitar o processo de integração de dados. O sistema oferece telas específicas para cadastro de clientes, soluções e usuários, além de uma interface dedicada ao upload de arquivos CSV com visualização da estrutura dos dados. Também foi implementado um dashboard administrativo que apresenta métricas e informações quantitativas sobre os dados configurados.
 
 A ferramenta inclui funcionalidades como mapeamento de campos-chave, aplicação de regras de negócio e recursos de autenticação e auditoria, permitindo total rastreabilidade do processo. Com essas capacidades, o NextSchema torna a configuração das fontes de dados mais ágil, padronizada e menos dependente de técnicos especialistas, otimizando significativamente o fluxo de trabalho.
 
@@ -276,7 +276,7 @@ Criação de estrutura de banco de dados normalizada, seguindo boas práticas de
 </details>
 
 
-# Hard Skills Desenvolvidas
+# Hard Skills Desenvolvidas - [Tabela de Níveis](https://github.com/Amandavannuccic/TG-Fatec/blob/main/TabelaDeN%C3%ADveis/TabelaNiveis.md)
 
 ### Desenvolvimento Front-end (HTML5, CSS3, JavaScript) — Intermediário
 <details> <summary>Detalhes</summary>
@@ -341,7 +341,7 @@ Motivo do nível: produzi documentação clara e compreensível sem necessidade 
 
 </details>
 
-# Soft Skills Desenvolvidas
+# Soft Skills Desenvolvidas - [Tabela de Níveis](https://github.com/Amandavannuccic/TG-Fatec/blob/main/TabelaDeN%C3%ADveis/TabelaNiveis.md)
 
 ### Trabalho em Equipe — Intermediário
 <details> <summary>Detalhes</summary>
