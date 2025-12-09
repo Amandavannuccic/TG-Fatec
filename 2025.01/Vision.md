@@ -85,7 +85,7 @@ Liderei a transição da documentação do projeto do Teams para o Jira, organiz
 </details>
 
 
-# Hard Skills Desenvolvidas
+# Hard Skills Desenvolvidas - [Tabela de Níveis](https://github.com/Amandavannuccic/TG-Fatec/blob/main/TabelaDeN%C3%ADveis/TabelaNiveis.md)
 
 ### Gestão Ágil (Scrum/Kanban) — Intermediário
 
@@ -145,7 +145,7 @@ Participei das decisões, mas não atuei diretamente na parte técnica, mantendo
 
 </details>
 
-# Soft Skills Desenvolvidas
+# Soft Skills Desenvolvidas - [Tabela de Níveis](https://github.com/Amandavannuccic/TG-Fatec/blob/main/TabelaDeN%C3%ADveis/TabelaNiveis.md)
 
 ### Trabalho em Equipe — Avançado
 
