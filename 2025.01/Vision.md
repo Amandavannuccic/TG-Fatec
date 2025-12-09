@@ -12,6 +12,8 @@ Neste projeto, o cliente foi a empresa Youtan, especializada no desenvolvimento 
 # Ferramenta Desenvolvida
 Para atender a essa necessidade, o grupo New Generation desenvolveu a VISION, uma aplicação integrada à plataforma Taiga para visualização de indicadores de projetos. A ferramenta possibilita o acompanhamento de métricas como tempo médio de finalização, distribuição de responsabilidades, uso de etiquetas e outros dados relevantes. Com isso, a VISION oferece maior clareza, transparência e suporte à tomada de decisão no gerenciamento ágil de projetos.
 
+<img width="1290" height="634" alt="image" src="https://github.com/user-attachments/assets/d117cf5d-07c5-46da-bd1f-d1a618f65c19" />
+
 # Tecnologias Utilizadas 
 
 | Categoria                      | Ferramenta/Plataforma  | Descrição                                                                    |
