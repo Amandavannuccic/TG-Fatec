@@ -43,24 +43,36 @@ Na [Fatec São José dos Campos – Prof. Jessen Vidal](https://fatecsjc-prd.azu
 ### 2023/1 
 - 🔗 Portfólio: [1º Semestre](https://github.com/Amandavannuccic/TG-Fatec/blob/main/2023.01/Avaliacao360.md)
 - 🔗 Repositório: [Insight360](https://github.com/TechHorizonBR/Insight360/tree/dev)
+  
+Sistema desktop desenvolvido em Python para otimizar e padronizar o processo de avaliação de desempenho, com visualização de resultados e geração de relatórios automáticos.
 
 ### 2023/2 
 - 🔗 Portfólio: [2º Semestre](https://github.com/Amandavannuccic/TG-Fatec/blob/main/2023.02/TGsync.md)
 - 🔗 Repositório:[TGSync](https://github.com/TechHorizonBR/API_2_Sem)
 
+Aplicação desktop em Java desenvolvida para modernizar e agilizar o processo de avaliação de TCCs, com registro de notas, feedbacks individualizados e geração automatizada de relatórios.
+
 ### 2024/1
 - 🔗 Portfólio: [3º Semestre](https://github.com/Amandavannuccic/TG-Fatec/blob/main/2024.01/NextSchema.md)
 - 🔗 Repositório:[NextSchema](https://github.com/TechHorizonBR/API_3SEM)
+
+Aplicação web desenvolvida para automatizar e padronizar a configuração de fontes de dados, com upload de CSV, mapeamento de campos e rastreabilidade do processo.
 
 ### 2024/2
 - 🔗 Portfólio: [4º Semestre](https://github.com/Amandavannuccic/TG-Fatec/blob/main/2024.02/LocalTrack.md)
 - 🔗 Repositório: [LocalTracker](https://github.com/TechHorizonBR/API_4SEM)
 
+Sistema web desenvolvido para gerenciar dados de geolocalização de dispositivos IoT, com visualização em mapas, acompanhamento em tempo real e controle de acesso.
+
 ### 2025/1
 - 🔗 Portfólio: [5º Semestre](https://github.com/Amandavannuccic/TG-Fatec/blob/main/2025.01/Vision.md)
 - 🔗 Repositório: [Vision](https://github.com/new-ge/VISION)
 
+Aplicação integrada à plataforma Taiga para visualização de indicadores de projetos, permitindo acompanhamento de métricas e suporte à gestão ágil.
+
 ### 2025/2
 - 🔗 Portfólio: [6º Semestre](https://github.com/Amandavannuccic/TG-Fatec/blob/main/2025.02/LuminIA.md)
 - 🔗 Repositório:[LuminIA](https://github.com/new-ge/LuminIA)
+
+API desenvolvida para gerenciar usuários e tickets, com integração a Machine Learning para análise de FAQ, sentimentos e métricas automáticas, apoiando a tomada de decisão.
 
