@@ -108,42 +108,42 @@ Ao longo da minha formação em Banco de Dados e das experiência práticas em p
 Na [Fatec São José dos Campos – Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/), os projetos desenvolvidos dentro da metodologia de Aprendizagem por Projetos Integrados ([API](https://fatecsjc-prd.azurewebsites.net/aprendizagem-por-projetos-integrados)) seguem uma abordagem prática baseada em problemas reais ([Real Problem Based Learning](https://www.scielo.br/j/edur/a/hY5pBZkfjL9XvGfHn5PPyFz/)), com validação externa e uso de metodologias ágeis ([SCRUM](https://www.scrum.org/learning-series/what-is-scrum/)). Os estudantes trabalham em equipes para solucionar desafios concretos propostos por empresas ou pela comunidade, aplicando ciclos iterativos de planejamento, desenvolvimento e feedback, com entregas parciais e adaptações constantes. Durante todo o processo, os [professores](https://fatecsjc-prd.azurewebsites.net/docentes-bd) atuam como facilitadores, intermediando e monitorando as ações dos alunos, oferecendo orientação técnica e metodológica. Os projetos são validados por profissionais externos, garantindo alinhamento com as demandas do mercado, e todo o conteúdo gerado segue licenças open source, com foco exclusivo na formação acadêmica dos alunos, sem fins lucrativos ou garantias comerciais.
 
 ### 2023/1 
-- 🔗 Portfólio: [1º Semestre](https://github.com/Amandavannuccic/TG-Fatec/blob/main/2023.01/Insight360.md)
-- 🔗 Repositório: [Insight360](https://github.com/TechHorizonBR/Insight360/tree/dev)
+- 🔗 Portfólio: [1º Semestre]()
+- 🔗 Repositório: [Insight360](https://github.com/Amandavannuccic/TG-Fatec/blob/main/2023.01_Insight360/Insight360.md)
 - 🔗 Cliente: [Professor Lucas Gonçalves Nadalete](https://fatecsjc-prd.azurewebsites.net/docentes-bd)
   
 Sistema desktop desenvolvido em Python para otimizar e padronizar o processo de avaliação de desempenho, com visualização de resultados e geração de relatórios automáticos.
 
 ### 2023/2 
-- 🔗 Portfólio: [2º Semestre](https://github.com/Amandavannuccic/TG-Fatec/blob/main/2023.02/TGsync.md)
+- 🔗 Portfólio: [2º Semestre](https://github.com/Amandavannuccic/TG-Fatec/blob/main/2023.02_TGSync/TGsync.md)
 - 🔗 Repositório: [TGSync](https://github.com/TechHorizonBR/API_2_Sem)
 - 🔗 Cliente: [Professor Emanuel Mineda Carneiro](https://fatecsjc-prd.azurewebsites.net/docentes-bd)
 
 Aplicação desktop em Java desenvolvida para modernizar e agilizar o processo de avaliação de TCCs, com registro de notas, feedbacks individualizados e geração automatizada de relatórios.
 
 ### 2024/1
-- 🔗 Portfólio: [3º Semestre](https://github.com/Amandavannuccic/TG-Fatec/blob/main/2024.01/NextSchema.md)
+- 🔗 Portfólio: [3º Semestre](https://github.com/Amandavannuccic/TG-Fatec/blob/main/2024.01_NextSchema/NextSchema.md)
 - 🔗 Repositório: [NextSchema](https://github.com/TechHorizonBR/API_3SEM)
 - 🔗 Cliente: [Dom Rock](https://www.linkedin.com/company/dom-rock/?originalSubdomain=br)
 
 Aplicação web desenvolvida para automatizar e padronizar a configuração de fontes de dados, com upload de CSV, mapeamento de campos e rastreabilidade do processo.
 
 ### 2024/2
-- 🔗 Portfólio: [4º Semestre](https://github.com/Amandavannuccic/TG-Fatec/blob/main/2024.02/LocalTrack.md)
+- 🔗 Portfólio: [4º Semestre](https://github.com/Amandavannuccic/TG-Fatec/blob/main/2024.02_LocalTracker/LocalTrack.md)
 - 🔗 Repositório: [LocalTracker](https://github.com/TechHorizonBR/API_4SEM)
 - 🔗 Cliente: [ITO1](https://www.linkedin.com/company/ito1/?originalSubdomain=br)
 
 Sistema web desenvolvido para gerenciar dados de geolocalização de dispositivos IoT, com visualização em mapas, acompanhamento em tempo real e controle de acesso.
 
 ### 2025/1
-- 🔗 Portfólio: [5º Semestre](https://github.com/Amandavannuccic/TG-Fatec/blob/main/2025.01/Vision.md)
+- 🔗 Portfólio: [5º Semestre](https://github.com/Amandavannuccic/TG-Fatec/blob/main/2025.01_VISION/Vision.md)
 - 🔗 Repositório: [Vision](https://github.com/new-ge/VISION)
 - 🔗 Cliente:[YouTan](https://youtan.com.br/)
 
 Aplicação integrada à plataforma Taiga para visualização de indicadores de projetos, permitindo acompanhamento de métricas e suporte à gestão ágil.
 
 ### 2025/2
-- 🔗 Portfólio: [6º Semestre](https://github.com/Amandavannuccic/TG-Fatec/blob/main/2025.02/LuminIA.md)
+- 🔗 Portfólio: [6º Semestre](https://github.com/Amandavannuccic/TG-Fatec/blob/main/2025.02_LuminIA/LuminIA.md)
 - 🔗 Repositório: [LuminIA](https://github.com/new-ge/LuminIA)
 - 🔗 Cliente: [Pro4Tech](https://www.pro4tech.com.br/#como-fazemos)
 
